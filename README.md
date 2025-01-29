@@ -99,4 +99,4 @@ This project was built with the help of a tutorial from Traversy Media. A big th
 
 ## Contact
 
-For any questions or inquiries, please contact Youssef Rifai at ucefstuff@gmail.com.
+For any questions or inquiries, please contact Fadila Rizky Qatarina at frqatarina25@gmail.com.
